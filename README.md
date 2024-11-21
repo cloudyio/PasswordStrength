@@ -1,6 +1,6 @@
 # Password Strength checker
 
-Nice basic webapp to check your password strength, you can check it out here
+Nice basic webapp to check your password strength, you can check it out [here](https://password-strength-chi.vercel.app/)
 
 ## Features
 - Modern ui
